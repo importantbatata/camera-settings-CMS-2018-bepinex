@@ -1,0 +1,32 @@
+[
+  {
+    "version": "1.0.0",
+    "filename": "CameraPresets-1.0.0.zip",
+    "size": 7578,
+    "sha256": "92f8842ba229a98773f7afc658bd78f6a923e876c9732bd1193b2fd8bc5d7183"
+  },
+  {
+    "version": "1.1.0",
+    "filename": "CameraPresets-1.1.0.zip",
+    "size": 11275,
+    "sha256": "9eafc5f4da2e0581dcedbd927fab060f5deb04edb6de04d1f47fb09e6575d827"
+  },
+  {
+    "version": "1.2.0",
+    "filename": "CameraPresets-1.2.0.zip",
+    "size": 15578,
+    "sha256": "161fad82095fa5b20c03287fab26fcb7cb9f23b94753fd0a3562e16e9a7b426e"
+  },
+  {
+    "version": "1.2.1",
+    "filename": "CameraPresets-1.2.1.zip",
+    "size": 15920,
+    "sha256": "0921a578538b945adabf36e48cf2b2ca16cdfe7141bf9094c990569c1514d540"
+  },
+  {
+    "version": "1.3.0",
+    "filename": "CameraSettings-1.3.0.zip",
+    "size": 11226,
+    "sha256": "e75faa0b2290d6c265a131e1fb830f4d53cf8d3f439662f222a1429a921364e8"
+  }
+]
